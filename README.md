@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumitshiv0154](https://github.com/sumitshiv0154)
 
-- 💬 Ask me about **Pentesting, Sql Injection and Webdev**
+- 💬 Ask me about **Pentesting, Api Testing Vulnerabiity Assessment**
 
 - 📫 How to reach me **sumitshiv0154@gmail.com**
 
